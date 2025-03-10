@@ -7,7 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class ECommereceProductCatalogApplication {
 
 	public static void main(String[] args) {
-		System.out.printLn("this test clone...");
+		System.out.println("this test push...");
 		SpringApplication.run(ECommereceProductCatalogApplication.class, args);
 	}
 
