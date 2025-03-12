@@ -7,7 +7,8 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class ECommereceProductCatalogApplication {
 
 	public static void main(String[] args) {
-		System.out.println("this test push...");
+//		this testing push
+//		System.out.println("this test push...");
 		SpringApplication.run(ECommereceProductCatalogApplication.class, args);
 	}
 
